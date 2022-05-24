@@ -1,1 +1,0 @@
-document.body.parentElement.style.scrollbarWidth="none"
